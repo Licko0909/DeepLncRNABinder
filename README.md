@@ -1,5 +1,7 @@
 # DeepLncRNABinder
-Prediction of Genome-wide binding of long noncoding RNAs using Deep Learning
+Prediction of Genome-wide binding of long noncoding RNAs using Deep Learning Based on paper
+
+Fan Wang, Pranik Chainani, Tommy White, Jin Yang, Yu Liu & Benjamin Soibam (2018) Deep learning identifies genome-wide DNA binding sites of long noncoding RNAs, RNA Biology, 15:12, 1468-1476, DOI: 10.1080/15476286.2018.1551704 
 
 
 Requirements
